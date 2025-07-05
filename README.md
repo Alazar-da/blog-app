@@ -71,4 +71,4 @@ Basic error handling
 ✍️ Author
 Alazar
 Frontend-focused Full-Stack Developer
-📫 Reach me on LinkedIn (https://www.linkedin.com/in/alazar-da/)
+📫 [Reach me on LinkedIn](https://www.linkedin.com/in/alazar-da/)
