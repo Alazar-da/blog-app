@@ -9,7 +9,7 @@ A beginner-friendly blog web application built using **HTML**, **Tailwind CSS**,
 
 ## 📌 Features
 
-- Fetches blog posts from a public API (`https://jsonplaceholder.typicode.com/posts`)
+- Fetches blog posts from a public [API](https://jsonplaceholder.typicode.com/posts)
 - Dynamically generates blog cards using JavaScript
 - Responsive design using Tailwind CSS utility classes
 - Smooth hover effects and transitions for a clean user experience
@@ -27,10 +27,12 @@ A beginner-friendly blog web application built using **HTML**, **Tailwind CSS**,
 
 ## 📂 Folder Structure
 
+```
 .
-├── index.html # Main HTML file
-├── script.js # JavaScript to fetch and render blog posts
-└── README.md # Project documentation
+├── index.html    # Main HTML file
+├── script.js     # JavaScript to fetch and render blog posts
+└── README.md     # Project documentation
+```
 
 
 ---
@@ -54,19 +56,18 @@ A beginner-friendly blog web application built using **HTML**, **Tailwind CSS**,
 
 3. Open index.html in your browser.
 
-📸 Screenshots
+## 📸 Screenshots
 ![Blog App Screenshot](blog-app-image.png)
 
 Example blog post layout with title and body preview styled using Tailwind CSS.
 
+---
+
 🧠 What I Learned
-DOM manipulation with JavaScript
-
-Fetching and handling asynchronous data using fetch
-
-Responsive design using Tailwind CSS utility-first classes
-
-Basic error handling
+- DOM manipulation with JavaScript
+- Fetching and handling asynchronous data using `fetch`
+- Responsive design using Tailwind CSS utility-first classes
+- Basic error handling
 
 ✍️ Author
 Alazar
